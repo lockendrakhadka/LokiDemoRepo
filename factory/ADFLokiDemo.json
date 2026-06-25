@@ -1,0 +1,15 @@
+{
+	"name": "ADFLokiDemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9be4c7f0-1ee0-4738-9868-6fa71e3948da",
+		"tenantId": "5af3aef4-d510-409d-8b2b-3ada39dcc5fa"
+	}
+}
